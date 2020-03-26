@@ -12,5 +12,4 @@ Node js CLI that tries to keep track of employee information using a basic CRUD 
 
 Allows you to view the employees you have as well as their role and what department they work in. Pertinent information can be read, created updated or deleted.
 
-Example Below
 ![Picture of project](app.PNG)
